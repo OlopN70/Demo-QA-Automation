@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06-Input huruf pada field mobile number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7cb2d28-513b-422c-977d-5aaac3713113</testCaseGuid>
+</TestCaseEntity>

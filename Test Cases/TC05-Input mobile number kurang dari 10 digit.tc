@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-Input mobile number kurang dari 10 digit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdd3b1e5-6ead-4be7-b711-e22934c93a4d</testCaseGuid>
+</TestCaseEntity>

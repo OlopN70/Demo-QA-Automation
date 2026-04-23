@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Submit form dengan input format emal yang tidak sesuai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ec5c4cf-5a7f-44b4-811c-b6b67f4d1e69</testCaseGuid>
+</TestCaseEntity>

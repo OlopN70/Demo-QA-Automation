@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10-Submit form dengan menginput spesial karakter pada field mobile number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e2e2b6e-82c6-4ccc-a2f1-721e82a16f01</testCaseGuid>
+</TestCaseEntity>

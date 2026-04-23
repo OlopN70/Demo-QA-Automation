@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08-Submit form tanpa input mobile number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>918e5c36-a308-443c-8c22-eb0ea034fe88</testCaseGuid>
+</TestCaseEntity>

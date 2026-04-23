@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07-Submit form tanpa memilih Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd5448e6-3de2-4844-b097-92cc057d543d</testCaseGuid>
+</TestCaseEntity>

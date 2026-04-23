@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-Submit form dengan kondisi tidak menginput field last name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f738026c-9677-4af4-8119-922c2b618e0d</testCaseGuid>
+</TestCaseEntity>
