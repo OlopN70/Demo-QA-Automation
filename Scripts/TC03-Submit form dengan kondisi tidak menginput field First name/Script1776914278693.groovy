@@ -82,4 +82,11 @@ WebUI.click(findTestObject('Object Repository/Form/div_Delhi'))
 // Submit
 WebUI.click(findTestObject('Object Repository/Form/button_Submit'))
 
+// ================= ASSERTION =================
+WebUI.verifyElementVisible(findTestObject('Object Repository/TCNegative/input_Name_firstName'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/TCNegative/input_Name_firstName'), 0)
+
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser();

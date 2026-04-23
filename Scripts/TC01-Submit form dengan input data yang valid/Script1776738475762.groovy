@@ -89,5 +89,7 @@ WebUI.click(findTestObject('Object Repository/Form/button_Submit'))
 // Validasi sukses
 WebUI.verifyElementText(findTestObject('Object Repository/Form/div_Thanks for submitting the form'), 'Thanks for submitting the form')
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser();
 

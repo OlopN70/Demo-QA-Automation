@@ -84,4 +84,14 @@ WebUI.click(findTestObject('Object Repository/Form/div_Delhi'))
 // Submit
 WebUI.click(findTestObject('Object Repository/Form/button_Submit'))
 
-WebUI.closeBrowser();
+// ================= ASSERTION =================
+WebUI.verifyElementAttributeValue(
+    findTestObject('Object Repository/TCNegative/input_Email_userEmail'),
+    'pattern',
+    '^([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})$',
+    10
+)
+
+WebUI.scrollToElement(findTestObject('Object Repository/TCNegative/input_Email_userEmail'), 0)
+
+WebUI.takeScreenshot()
